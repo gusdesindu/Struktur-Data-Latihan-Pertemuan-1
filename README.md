@@ -1,1 +1,1 @@
-# Struktur-Data-Latihan-Pertemuan-1
+membuat praktikum pada pertemuan 1 program Python untuk menginput data ke dalam list, menampilkan nilai maksimum, minimum, dan rata-rata, melakukan operasi insert dan delete secara manual, serta menampilkan hasil data dalam bentuk grafik batang menggunakan matplotlib.
